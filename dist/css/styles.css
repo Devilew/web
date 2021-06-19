@@ -6150,7 +6150,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #32B0F5 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -10190,8 +10190,15 @@ body {
   flex-shrink: 0;
 }
 
+.border-blue {
+  border: 1px solid #000;
+  border-color: black!important;
+  background-color: #00A5FF;
+  color: black!important;
+}
+
 .sb-sidenav-dark {
-  background-color: #212529;
+  background-color: #32B0F5;
   color: rgba(255, 255, 255, 0.5);
 }
 .sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading {
